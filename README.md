@@ -4,4 +4,4 @@ Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile
 
 BMI calculator application based on Flutter Team advices and tutorials
 
-For help getting started with Flutter, view our online documentation.
+For help getting started with Flutter, view our online documentation. https://flutter.dev/
